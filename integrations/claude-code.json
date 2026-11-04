@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spi-insurance": {
+      "type": "http",
+      "url": "https://api.assurs.ch/mcp"
+    }
+  }
+}
